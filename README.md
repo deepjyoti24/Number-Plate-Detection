@@ -6,3 +6,5 @@ This is  a Machin learning based project where we can detected any vehicle numbe
 * Pandas
 * Tesseract
 * imutils
+# Demo
+![Numberplate](https://user-images.githubusercontent.com/122958715/233390268-217c2d2b-8ff2-4f7a-ab3e-ff2628c507b3.png)
